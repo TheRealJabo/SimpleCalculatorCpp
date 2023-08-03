@@ -1,0 +1,4 @@
+services:
+    simple_calculator:
+        build: .
+        image: simple_calculator
